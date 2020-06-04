@@ -1,0 +1,15 @@
+## 欢迎来到忘为网
+style type="text/css">
+input:focus {
+	background-color: yellow
+}
+</style>
+
+<center>
+<form action="form_action.asp" method="get">
+<input name="fname" type="text" style="width: 500px; height: 50px;" /><br />
+<input name="lname" type="text" style="width: 500px; height: 50px;" /><br />
+<input name="OK" type="submit" style="width: 500px; height:50px; " />
+</form>
+</center>
+
